@@ -1,0 +1,1 @@
+print(1.8 * float(input("insira a temperatura em celsius: ")) + 32)
